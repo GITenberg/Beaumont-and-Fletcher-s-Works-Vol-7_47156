@@ -41,6 +41,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 tableOfContents: The Maid in the Mill -- The Knight of Malta -- Loves Cure, or the
   Martial Maid  -- Women Pleas'd -- The Night-Walker, or the Little Thief
 title: Beaumont and Fletcher's Works, Vol. 7
